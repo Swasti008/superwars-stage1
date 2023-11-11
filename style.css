@@ -23,8 +23,9 @@
     font-size: 100px;
     margin-right:20px ;
 }
-footer{
-    margin-left: 18px;
+.footer{
+  margin-left : 80px;
+  font-size : 18px;
 }
 p{
     text-align: center;
