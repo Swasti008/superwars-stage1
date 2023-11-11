@@ -1,14 +1,11 @@
-
 *{
     margin: 0;
     padding: 0;
-
 }
 .container{
     display:grid;
     grid-template-columns: repeat(3,400px);
     justify-content: center;
-    /* margin-left: 100px; */
 }
 .heros,.villians{
     display: grid;
@@ -18,10 +15,8 @@
 }
 .hero,.villian{
    height:200px;
-   /* width:100px;  */
    border: 2px rgb(226, 217, 217) solid;
    border-radius: 7px;
-   
 }
 .text{
     text-align: center;
@@ -35,7 +30,5 @@ p{
     text-align: center;
 }
 h1{
-    position: relative;
     text-align: center;
-    top: 0px;
 }
